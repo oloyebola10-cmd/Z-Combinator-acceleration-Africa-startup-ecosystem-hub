@@ -210,7 +210,7 @@ The Z-Combinator Africa startup ecosystem is built on a modern, scalable microse
 
 ### Performance Targets
 - API response time: < 200ms (95th percentile)
-- Payment processing: < 3 seconds
+- Payment processing: < 2 seconds (mobile money)
 - Database queries: < 50ms average
 - System uptime: 99.95% SLA
 

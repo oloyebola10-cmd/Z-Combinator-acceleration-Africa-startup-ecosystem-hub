@@ -493,7 +493,7 @@ GET /backup/list?resource_id=db_prod_123
 Restore data from backup.
 
 ```http
-POST /backup/{backup_id}/restore
+PUT /backup/{backup_id}/restore
 ```
 
 ## Webhooks
